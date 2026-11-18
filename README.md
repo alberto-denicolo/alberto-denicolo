@@ -5,6 +5,10 @@ optimization and networks, and I like turning mathematical models into tested, r
 
 **Projects**
 
+- [grig-clustering](https://github.com/alberto-denicolo/grig-clustering): clustering in the geometric random
+  intersection graph, the topic of my master's thesis. Exact theory by quadrature, simulation on the torus, 14
+  experiments, and new results on the random connection model comparison and on dimension 3.
+
 - [maxcut-goemans-williamson](https://github.com/alberto-denicolo/maxcut-goemans-williamson): the Goemans–Williamson
   SDP algorithm for Max-Cut, with the experiments of my bachelor thesis and new ones on graphs up to 200 vertices.
 
