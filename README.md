@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Alberto 👋
 
-<!--
-**alberto-denicolo/alberto-denicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied mathematician (MSc Mathematics, University of Padova, 2026). I work on probability, stochastic processes,
+optimization and networks, and I like turning mathematical models into tested, reproducible Python code.
 
-Here are some ideas to get you started:
+**Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [maxcut-goemans-williamson](https://github.com/alberto-denicolo/maxcut-goemans-williamson): the Goemans–Williamson
+  SDP algorithm for Max-Cut, with the experiments of my bachelor thesis and new ones on graphs up to 200 vertices.
+
+**Tools:** Python (NumPy, SciPy, CVXPY, pandas), SQL, Git, LaTeX
+
+[LinkedIn](https://linkedin.com/in/alberto-denicolo) · alberto.denicolo.dna@gmail.com
